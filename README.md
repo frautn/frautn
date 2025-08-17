@@ -26,7 +26,7 @@ I’m a Professor of Physics with a passion for leveraging Python and computatio
   _A supporting library for F2-electromagnetismo, designed to enable fully hands-on learning in electromagnetism._
 
 - [**F2**](https://github.com/frautn/F2)  
-  _Material used for an introductory course on electrostatics and magnetostatics for engineers. $\LaTeX$ code for problem sets, exams, and more._
+  _Material used for an introductory course on electrostatics and magnetostatics for engineers. LaTeX code for problem sets, exams, and more._
 
 - [**ComputationalAnalyticalMechanics**](https://github.com/unlam/ComputationalAnalyticalMechanics)  
   _Modern analytical mechanics for engineers—no ink, no paper, just code._
